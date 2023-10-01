@@ -11,13 +11,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{938BC450
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaidalovIG.Sprint0.Task1.V0", "Tyuiu.KaidalovIG.Sprint0.Task1.V0\Tyuiu.KaidalovIG.Sprint0.Task1.V0.csproj", "{8A9E9C13-6A0E-40BE-8DBC-B391678A8182}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasl2", "Tasl2", "{18632E12-AC5A-4C47-8739-4FC0D83C4050}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{18632E12-AC5A-4C47-8739-4FC0D83C4050}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaidalovIG.Sprint0.Task2.V0", "Tyuiu.KaidalovIG.Sprint0.Task2.V0\Tyuiu.KaidalovIG.Sprint0.Task2.V0.csproj", "{BB04AC12-6A8D-4324-8F3C-19AD5CB8A181}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaidalovIG.Sprint0.Task2.V0.Lib", "Tyuiu.KaidalovIG.Sprint0.Task2.V0.Lib\Tyuiu.KaidalovIG.Sprint0.Task2.V0.Lib.csproj", "{6285BB43-EA01-4238-A120-DB2536B701CA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaidalovIG.Sprint0.Task2.V0.Test", "Tyuiu.KaidalovIG.Sprint0.Task2.V0.Test\Tyuiu.KaidalovIG.Sprint0.Task2.V0.Test.csproj", "{23ECF52A-11CB-4C0A-A12F-3BC546665C0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{DA572AF2-E88B-41D8-9CE9-8F5E613C76E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaidalovIG.Sprint0.Task3.V0", "Tyuiu.KaidalovIG.Sprint0.Task3.V0\Tyuiu.KaidalovIG.Sprint0.Task3.V0.csproj", "{1B20AF5D-7CA4-4367-A181-4732B8DCB9E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaidalovIG.Sprint0.Task3.V0.Test", "Tyuiu.KaidalovIG.Sprint0.Task3.V0.Test\Tyuiu.KaidalovIG.Sprint0.Task3.V0.Test.csproj", "{F5D331B4-EF62-4E3F-8CE2-6D85AE554273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaidalovIG.Sprint0.Task3.V0.Lib", "Tyuiu.KaidalovIG.Sprint0.Task3.V0.Lib\Tyuiu.KaidalovIG.Sprint0.Task3.V0.Lib.csproj", "{9F942E68-67DF-4B7A-81F7-B61D98312B26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,18 @@ Global
 		{23ECF52A-11CB-4C0A-A12F-3BC546665C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23ECF52A-11CB-4C0A-A12F-3BC546665C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23ECF52A-11CB-4C0A-A12F-3BC546665C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B20AF5D-7CA4-4367-A181-4732B8DCB9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B20AF5D-7CA4-4367-A181-4732B8DCB9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B20AF5D-7CA4-4367-A181-4732B8DCB9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B20AF5D-7CA4-4367-A181-4732B8DCB9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D331B4-EF62-4E3F-8CE2-6D85AE554273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D331B4-EF62-4E3F-8CE2-6D85AE554273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D331B4-EF62-4E3F-8CE2-6D85AE554273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D331B4-EF62-4E3F-8CE2-6D85AE554273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F942E68-67DF-4B7A-81F7-B61D98312B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F942E68-67DF-4B7A-81F7-B61D98312B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F942E68-67DF-4B7A-81F7-B61D98312B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F942E68-67DF-4B7A-81F7-B61D98312B26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +75,9 @@ Global
 		{BB04AC12-6A8D-4324-8F3C-19AD5CB8A181} = {18632E12-AC5A-4C47-8739-4FC0D83C4050}
 		{6285BB43-EA01-4238-A120-DB2536B701CA} = {18632E12-AC5A-4C47-8739-4FC0D83C4050}
 		{23ECF52A-11CB-4C0A-A12F-3BC546665C0C} = {18632E12-AC5A-4C47-8739-4FC0D83C4050}
+		{1B20AF5D-7CA4-4367-A181-4732B8DCB9E3} = {DA572AF2-E88B-41D8-9CE9-8F5E613C76E2}
+		{F5D331B4-EF62-4E3F-8CE2-6D85AE554273} = {DA572AF2-E88B-41D8-9CE9-8F5E613C76E2}
+		{9F942E68-67DF-4B7A-81F7-B61D98312B26} = {DA572AF2-E88B-41D8-9CE9-8F5E613C76E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E5D5F456-750D-4F92-867A-66E481B85D1B}
